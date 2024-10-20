@@ -1,2 +1,2 @@
 # px-licensemanager-control
-px-licensemanager version control
+PX LICENSEMANAGER version control repository for updates
